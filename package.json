@@ -1,0 +1,29 @@
+{
+  "name": "totallynotaslackbot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "David Silva <zgrav@null.net>",
+  "description": "I do things that I'm programmed to... maybe... if the code ain't bad",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-codinglove": "git+https://github.com/zGrav/hubot-codinglove",
+    "hubot-devops-reactions": "git+https://github.com/zGrav/hubot-devops-reactions",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-dogeme": "git+https://github.com/zGrav/hubot-dogeme",
+    "hubot-help": "^0.2.2",
+    "hubot-hodor": "git+https://github.com/zGrav/hubot-hodor",
+    "hubot-internetfaces": "git+https://github.com/zGrav/hubot-internetfaces",
+    "hubot-pugme": "git+https://github.com/zGrav/hubot-pugme",
+    "hubot-rickroll-me": "git+https://github.com/zGrav/hubot-rickroll-me",
+    "hubot-rules": "^0.1.2",
+    "hubot-sandstorm-me": "git+https://github.com/zGrav/hubot-sandstorm-me",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "hubot-slack": "^4.4.0",
+    "hubot-voodoopeople": "git+https://github.com/zGrav/hubot-voodoopeople",
+    "hubot-what-the-fox": "git+https://github.com/zGrav/hubot-what-the-fox"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
